@@ -17,8 +17,7 @@ A simple, beginner-friendly guide to understanding RAG. No prior AI experience n
 7. [Simple Code Example](#simple-code-example)
 8. [Tools You'll Use](#tools-youll-use)
 9. [Common Beginner Questions](#common-beginner-questions)
-10. [Learning Roadmap](#learning-roadmap)
-11. [Resources](#resources)
+10. [Resources](#resources)
 
 ---
 
@@ -377,21 +376,6 @@ ChatGPT answers from memory. RAG answers from **your documents** that you provid
 | **Agents** | AI that takes actions (calls APIs, etc.) | Learn RAG first, then explore agents |
 
 ---
-
-## Learning Roadmap
-
-Follow this order. Check off each step as you complete it.
-
-- [ ] **Step 1** — Read this README and understand the 8 steps
-- [ ] **Step 2** — Build "chat with one PDF" using Python + Chroma
-- [ ] **Step 3** — See which chunks were retrieved for each answer
-- [ ] **Step 4** — Try different chunk sizes and compare results
-- [ ] **Step 5** — Add "I don't know" when context doesn't have the answer
-- [ ] **Step 6** — Build a simple chat UI (Streamlit)
-- [ ] **Step 7** — Test with 10 questions and check if answers are correct
-
----
-
 ## One-Sentence Summary
 
 > **RAG = search your documents for relevant info, then let the AI answer using only what it found.**
@@ -413,7 +397,7 @@ Follow this order. Check off each step as you complete it.
 
 ## About This Repo
 
-This is a **learning journal**. Concepts are explained simply so any beginner can follow along. The repo will grow with code examples and projects as learning continues.
+This is a **learning journal** for understanding RAG. Concepts are explained simply so any beginner can follow along.
 
 **Found something confusing?** Open an issue or improve this README — learning together is the goal!
 
