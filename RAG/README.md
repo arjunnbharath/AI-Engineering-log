@@ -415,6 +415,7 @@ ChatGPT answers from memory. RAG answers from **your documents** that you provid
 - [Ollama](https://ollama.com/) — run LLMs locally for free
 
 ### Go Deeper
+- [Vector Database Guide](../vector-database/README.md) — what embeddings and vector DBs are
 - [Original RAG Paper (2020)](https://arxiv.org/abs/2005.11401)
 - [LlamaIndex Docs](https://docs.llamaindex.ai/)
 
