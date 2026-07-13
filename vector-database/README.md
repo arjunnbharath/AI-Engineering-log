@@ -19,7 +19,7 @@
 
 ## What is a Vector Database?
 
-A **vector database** is a specialized type of database designed to **store**, **index**, and **search** high-dimensional vector representations of data — known as **embeddings**.
+A **vector database** is a specialized type of database designed to **store**, **index**, and **search** high-dimensional vector representations of data — known as **embeddings**. Unlike traditional databases that rely on exact matches vector databases use similarity search techniques such as cosine similarity or Euclidean distance to find items that are semantically or visually similar..
 
 ### Vector DB vs Traditional Database
 
