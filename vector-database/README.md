@@ -8,13 +8,13 @@
 
 1. [What is a Vector Database?](#what-is-a-vector-database)
 2. [What are Embeddings?](#what-are-embeddings)
-3. [How Do Embeddings Work?](#how-do-embeddings-work)
-4. [How Vector Databases Search](#how-vector-databases-search)
-5. [Popular Vector Databases](#popular-vector-databases)
-6. [Simple Code Example (FAISS)](#simple-code-example-faiss)
-7. [Applications](#applications)
-8. [Vector DB in RAG](#vector-db-in-rag)
-
+3. [Vector Embeddings](https://github.com/arjunnbharath/AI-Engineering-log/blob/main/vector-database/Vector%20Embeddings/README.md)
+4. [How Do Embeddings Work?](#how-do-embeddings-work)
+5. [How Vector Databases Search](#how-vector-databases-search)
+6. [Popular Vector Databases](#popular-vector-databases)
+7. [Simple Code Example (FAISS)](#simple-code-example-faiss)
+8. [Applications](#applications)
+9. [Vector DB in RAG](#vector-db-in-rag)
 ---
 
 ## What is a Vector Database?
