@@ -1,4 +1,4 @@
-# 🤖 AI Engineering Beginner Log
+# 🤖 AI Engineering Log
 
 Welcome to my **AI Engineering Beginner Log**! 🚀
 
